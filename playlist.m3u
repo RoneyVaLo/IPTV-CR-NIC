@@ -1,30 +1,28 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_CR1.xml.gz?raw=true"
-#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
-https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
+//#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
+//https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
-https://d1vr8yxz55pucr.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4 (test)
+#EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
 https://d35xpyc30huab3.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
+#EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
+https://d1vr8yxz55pucr.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11
 https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2 (test)
-https://d30230c1j3h08x.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVOKjs9uznq4S-1u22t7VXMffeLMnbrB7GmI2dK_v3ri)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
-#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
-https://bit.ly/36EcnOh
-#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
-https://bit.ly/3jx96ED
-#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
-https://bit.ly/3sM69mz
-#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
-https://bit.ly/3odiMa2
-#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
-https://bit.ly/2WuDq9S
-#EXTINF:-1 tvg-id="Anexión.TV.(ANEX)..cr", Anexion TV
-https://rtmp.info/anexiontv/envivo/chunklist_w759656506.m3u8
+//#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
+//https://d30230c1j3h08x.cloudfront.net/index.m3u8
+//#EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
+//https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVOKjs9uznq4S-1u22t7VXMffeLMnbrB7GmI2dK_v3ri)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
+//#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
+//https://bit.ly/36EcnOh
+//#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
+//https://bit.ly/3jx96ED
+//#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
+//https://bit.ly/3sM69mz
+//#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
+//https://bit.ly/3odiMa2
+//#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
+//https://bit.ly/2WuDq9S
 #EXTINF:-1 tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT)..cr", VM Latino
 http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1, TVN Canal 14
