@@ -17,6 +17,8 @@ https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 //https://bit.ly/36EcnOh
 //#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
 //https://bit.ly/3jx96ED
+#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 3)
+http://190.83.119.67:8000/play/a0t3/index.m3u8
 //#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
 //https://bit.ly/3sM69mz
 //#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
